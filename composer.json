@@ -3,7 +3,7 @@
     "type": "shuwon-admin",
     "require": {
 	    "php": ">=5.6"
-    }
+    }，
 	"extra": {
         "installer-paths": {
             "sites/example.com/modules/{$name}": ["vendor/package"]
