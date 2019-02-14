@@ -1,0 +1,11 @@
+{
+    "name": "shuwon/admin",
+    "type": "shuwon-admin",
+    "require": {
+    }
+	"extra": {
+        "installer-paths": {
+            "sites/example.com/modules/{$name}": ["vendor/package"]
+        }
+    }
+}
