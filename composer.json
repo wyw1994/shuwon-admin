@@ -1,12 +1,13 @@
 {
     "name": "shuwon/admin",
-    "type": "shuwon-admin",
+    "type": "admin-asset-library",
+    "license": "MIT",
     "require": {
 	    "php": ">=5.6"
     },
 	"extra": {
-        "installer-paths": {
-            "shuwon-admin": "vendor/../"
+        "asset-installer-paths": {
+            "admin-asset-library": "vendor/../"
         }
     }
 }
