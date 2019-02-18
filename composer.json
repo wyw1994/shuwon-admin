@@ -6,7 +6,7 @@
     },
 	"extra": {
         "installer-paths": {
-            "sites/example.com/modules/{$name}": ["vendor/package"]
+            "shuwon-admin": "vendor/../"
         }
     }
 }
